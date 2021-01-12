@@ -4,10 +4,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dudeisbrendan03&style=flat-square&color=blueviolet)
 
 <a href="https://twitter.com/NameNotBrendan">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/dudeisbrendan03/dudeisbrendan03/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/dudeisbrendan03/dudeisbrendan03/main/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/5XthZMWDku">
-  <img align="left" alt="CodeLabs Discord" width="21px" src="https://raw.githubusercontent.com/dudeisbrendan03/dudeisbrendan03/master/assets/discord-round.svg" />
+  <img align="left" alt="CodeLabs Discord" width="21px" src="https://raw.githubusercontent.com/dudeisbrendan03/dudeisbrendan03/main/assets/discord-round.svg" />
 </a>
 
 <br />
