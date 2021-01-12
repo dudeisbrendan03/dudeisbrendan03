@@ -4,10 +4,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dudeisbrendan03&style=flat-square&color=blueviolet)
 
 <a href="https://twitter.com/NameNotBrendan">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/dudeisbrendan03/dudeisbrendan03/main/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/dudeisbrendan03/dudeisbrendan03/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/5XthZMWDku">
-  <img align="left" alt="CodeLabs Discord" width="21px" src="https://raw.githubusercontent.com/dudeisbrendan03/dudeisbrendan03/main/assets/discord-round.svg" />
+  <img align="left" alt="CodeLabs Discord" width="21px" src="https://raw.githubusercontent.com/dudeisbrendan03/dudeisbrendan03/master/assets/discord-round.svg" />
 </a>
 
 <br />
@@ -31,23 +31,14 @@ Hi, I'm Brendan, a passionate self-taught frontEnd web developer from the UK.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-
 *NOTE: Top languages does not indicate my skill level, it's based off contribution stats*
 
-
-<a href="https://github.com/dudeisbrendan03/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudeisbrendan03&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Brendan's github stats" />
-</a>
-<a href="https://github.com/dudeisbrendan03/github-readme-stats">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudeisbrendan03&layout=compact&theme=material-palenight" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudeisbrendan03&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Brendan's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudeisbrendan03&layout=compact&theme=material-palenight" />
 
 <a href="https://github.com/dudeisbrendan03/RESTful-api">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dudeisbrendan03&repo=RESTful-api&theme=material-palenight" />
 </a>    
 <a href="https://github.com/tpcofficial/big-oauth2">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpcofficial&repo=big-oauth2&theme=material-palenight" />
 </a>
