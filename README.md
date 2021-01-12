@@ -17,7 +17,7 @@ Hi, I'm Brendan, a passionate self-taught frontEnd web developer from the UK.
 
 - 🔭 I’m currently working on college work
 - 🌱 I’m currently learning nothing while I'm caught up with college work
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/tpcofficial/big-oauth2)
+- 👯 I’m looking to collaborate on [big-oauth2](https://github.com/tpcofficial/big-oauth2)
 - 💬 Ask me about anything [here](mailto:jbrendan70@outlook.com)
 
 **Languages and Tools:**  
@@ -42,3 +42,11 @@ Hi, I'm Brendan, a passionate self-taught frontEnd web developer from the UK.
 <a href="https://github.com/tpcofficial/big-oauth2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpcofficial&repo=big-oauth2&theme=material-palenight" />
 </a>
+
+**To Do's:**
+
+- @tpcofficial/big-oauth2@1.0.0-beta
+- SimpleRat
+- College SPM API and CLI
+- RESTful-api
+- Domk API and client
