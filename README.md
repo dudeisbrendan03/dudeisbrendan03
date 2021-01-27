@@ -13,9 +13,9 @@
 <br />
 <br />
 
-Hi, I'm Brendan, a passionate self-taught frontEnd web developer from the UK.
+Hi, I'm Brendan, a passionate self-taught, full-stack dev from the UK.
 
-- 🔭 I’m currently working on college work
+- 🔭 I’m currently working on college work (sorry big-oauth2 and my work)
 - 🌱 I’m currently learning nothing while I'm caught up with college work
 - 👯 I’m looking to collaborate on [big-oauth2](https://github.com/tpcofficial/big-oauth2)
 - 💬 Ask me about anything [here](mailto:jbrendan70@outlook.com)
