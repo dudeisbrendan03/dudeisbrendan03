@@ -15,8 +15,8 @@
 
 Hi, I'm Brendan, a passionate self-taught, full-stack dev from the UK.
 
-- 🔭 I’m currently working on college work (sorry big-oauth2 and my work)
-- 🌱 I’m currently learning nothing while I'm caught up with college work
+- 🔭 I’m currently working on big-oauth2, big-oauth2-express, optikservers/api and work
+- 🌱 I’m currently learning Vue and React to help beef up my knowledge since I'm not amazing at either, especially Vue
 - 👯 I’m looking to collaborate on [big-oauth2](https://github.com/tpcofficial/big-oauth2)
 - 💬 Ask me about anything [here](mailto:jbrendan70@outlook.com)
 
@@ -45,8 +45,9 @@ Hi, I'm Brendan, a passionate self-taught, full-stack dev from the UK.
 
 **To Do's:**
 
-- @tpcofficial/big-oauth2@1.0.0-beta
+- @tpcofficial/big-oauth2@1.0.0-beta (currently working on rel 0.3.0)
+- @optikservers/api@1.0.0 (currently working on rel 0.4.0)
 - SimpleRat
-- College SPM API and CLI
+- ~~College SPM API and CLI~~ --> Planning to move to full project
 - RESTful-api
-- Domk API and client
+- ~~Domk API and client~~ --> Likely abandoned and moved to corporate project
