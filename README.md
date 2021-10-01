@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Brendan, a passionate self-taught, full-stack dev from the UK.
+Hi, I'm Brendan, ~~an (ex. passionate self-taught, full-stack dev from the UK.)~~ a Senior Infrastructure Engineer for [Kuxo](https://kuxo.io) (formerly 413 Dedicated Solutions Ltd) and NOC engineer + Director/PSC for [TPC Group](https://thatspretty.cool) 
 
 - 🔭 I’m currently working on big-oauth2, big-oauth2-express, optikservers/api and work
 - 🌱 I’m currently learning Vue and React to help beef up my knowledge since I'm not amazing at either, especially Vue
