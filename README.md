@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Brendan, ~~an (ex. passionate self-taught, full-stack dev from the UK.) a~~ Senior Infrastructure Engineer for [Kuxo](https://kuxo.io) (formerly 413 Dedicated Solutions Ltd) ~~and NOC engineer + Director/PSC for [TPC Group](https://thatspretty.cool)~~, I'm also an iMSci student at Lancaster University
+Hi, I'm Brendan, used to run an MSP with a focus on security and proactive incident management (instead of reactive), and worked as a Sr. Infrastructure Engineer for Kuxo Ltd, a cloud provider, I'm also an iMSci student at Lancaster University.
 
 - 🔭 I’m currently working on big-oauth2, big-oauth2-express, optikservers/api and work
 - 🌱 I’m currently learning Vue and React to help beef up my knowledge since I'm not amazing at either, especially Vue
