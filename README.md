@@ -15,7 +15,7 @@
 
 Hi, I'm Brendan, used to run an MSP with a focus on security and proactive incident management (instead of reactive), and worked as a Sr. Infrastructure Engineer for Kuxo Ltd, a cloud provider, I'm also an iMSci student at Lancaster University.
 
-- 🔭 I’m currently working on big-oauth2, big-oauth2-express, optikservers/api and work
+- 🔭 I’m currently working on big-oauth2, big-oauth2-express, and work
 - 🌱 I’m currently learning Vue and React to help beef up my knowledge since I'm not amazing at either, especially Vue
 - 👯 I’m looking to collaborate on [big-oauth2](https://github.com/tpcofficial/big-oauth2)
 - 💬 Ask me about anything [here](mailto:jbrendan70@outlook.com)
