@@ -39,8 +39,16 @@ Hi, I'm Brendan, used to run an MSP with a focus on security and proactive incid
 <a href="https://github.com/dudeisbrendan03/RESTful-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dudeisbrendan03&repo=RESTful-api&theme=material-palenight" />
 </a>    
-<a href="https://github.com/tpcofficial/big-oauth2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpcofficial&repo=big-oauth2&theme=material-palenight" />
+<a href="https://github.com/dudeisbrendan03/jessica-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dudeisbrendan03&repo=jessica-api&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/dudeisbrendan03/jessica">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dudeisbrendan03&repo=jessica&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/dudeisbrendan03/jessica-cli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dudeisbrendan03&repo=jessica-cli&theme=material-palenight" />
 </a>
 
 **To Do's:**
