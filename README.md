@@ -53,9 +53,6 @@ Hi, I'm Brendan, used to run an MSP with a focus on security and proactive incid
 
 **To Do's:**
 
-- @tpcofficial/big-oauth2@1.0.0-beta (currently working on rel 0.3.0)
-- @optikservers/api@1.0.0 (currently working on rel 0.4.0)
-- SimpleRat
-- ~~College SPM API and CLI~~ --> Planning to move to full project
-- RESTful-api
-- ~~Domk API and client~~ --> Likely abandoned and moved to corporate project
+- @tpcofficial/big-oauth2@1.0.0-beta (return to project)
+- jessica (started)
+- pixel-edtior (in-progress, university software engineering project)
