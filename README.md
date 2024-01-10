@@ -10,8 +10,6 @@ Hi, I'm Brendan, I help run an MSP with a focus on security and proactive incide
 - 👯 I’m looking to collaborate on something cool, need some inspiration in my life, feel free to ask!
 - 💬 Ask me about anything [here](mailto:bre@sdf.org)
 
-**Languages and Tools:**  
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
