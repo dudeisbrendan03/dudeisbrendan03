@@ -2,7 +2,7 @@
 ### Hi there, I'm Brendan 👋
 
 ![](https://hit.yhype.me/github/profile?user_id=6009600)
-![Profile views](https://komarev.com/ghpvc/?username=dudeisbrendan03&style=flat-square&color=blueviolet)
+![Views this month](https://komarev.com/ghpvc/?username=dudeisbrendan03&style=flat-square&color=blueviolet)
 
 Hi, I'm Brendan, I help run an MSP with a focus on security and proactive incident management, previous experience working as a Sr. Infrastructure Engineer for a cloud provider, and a MSci student at Lancaster University.
 
