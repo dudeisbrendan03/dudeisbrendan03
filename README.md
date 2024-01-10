@@ -23,6 +23,7 @@ Hi, I'm Brendan, I help run an MSP with a focus on security and proactive incide
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudeisbrendan03&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Brendan's github stats" />
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudeisbrendan03&show_icons=true&include_all_commits=true&theme=dark" alt="Brendan's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudeisbrendan03&layout=compact&theme=dark" />
+-->
