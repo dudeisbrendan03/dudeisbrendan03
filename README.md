@@ -4,10 +4,10 @@
 ![](https://hit.yhype.me/github/profile?user_id=6009600)
 ![Views this month](https://komarev.com/ghpvc/?username=dudeisbrendan03&style=flat-square&color=blueviolet)
 
-Hi, I'm Brendan, I help run an MSP with a focus on security and proactive incident management, previous experience working as a Sr. Infrastructure Engineer for a cloud provider, and a MSci student at Lancaster University.
+Hi, I'm Brendan, I help run an MSP with a focus on security and proactive incident management, previous experience working as a Sr. Infrastructure Engineer for a small cloud provider, and currently a Postgraduate Researcher at Lancaster University.
 
-- 🔭 I’m currently working on a research project to improve 5G performance, some Vue & wordpress projects, and some embedded systems stuff- sadly most of this isn't public 💔
-- 🌱 I’m currently learning more about the 5G stack (but we are talking a real deep-delve into it)
+- 🔭 I’m currently working on a research project related to building XR-optimised SDN networks
+- 🌱 I’m currently learning more about the 5G stack and pushing towards CNCF integrations
 - 👯 I’m looking to collaborate on something cool, need some inspiration in my life, feel free to ask!
 - 💬 Ask me about anything [here](mailto:bre@sdf.org)
 
