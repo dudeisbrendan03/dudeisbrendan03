@@ -26,3 +26,5 @@ Hi, I'm Brendan, I help run an MSP with a focus on security and proactive incide
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudeisbrendan03&show_icons=true&include_all_commits=true&theme=dark" alt="Brendan's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudeisbrendan03&layout=compact&theme=dark" />
 -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dudeisbrendan03&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
