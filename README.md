@@ -6,9 +6,6 @@
 
 Hi, I'm Brendan, I help run an MSP with a focus on security and proactive incident management, previous experience working as a Sr. Infrastructure Engineer for a small cloud provider, and currently a Postgraduate Researcher at Lancaster University.
 
-- 🔭 I’m currently working on a research project related to building XR-optimised SDN networks
-- 🌱 I’m currently learning more about the 5G stack and pushing towards CNCF integrations
-- 👯 I’m looking to collaborate on something cool, need some inspiration in my life, feel free to ask!
 - 💬 Ask me about anything [here](mailto:bre@sdf.org)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
